@@ -40,6 +40,8 @@ group :doc do
   gem 'sdoc', '0.3.20', require: false
 end
 
+gem 'protected_attributes'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
@@ -51,3 +53,4 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
